@@ -13,6 +13,8 @@ class View(object):
         self.presenter = _presenter
 
     def setupUi(self, MainWindow):
+
+        
         """Sets up the UI elements and their properties."""
 
         MainWindow.setObjectName("MainWindow")  # Sets the object name for the main window
