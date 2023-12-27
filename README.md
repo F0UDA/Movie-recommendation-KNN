@@ -50,3 +50,8 @@ The K-Nearest Neighbors (KNN) algorithm is used to find movies similar to a user
 3. **Displaying Recommendations:**
    - The indices of recommended movies are used to retrieve their titles from the `movies_list`.
    - The recommended movie titles are displayed in the GUI using the `show_result` method.
+## Displaying Recommendations
+
+The recommended movie titles are saved in the `recommended` list using the `save_recommendation` method. The `show_result` method displays the recommended movies in the GUI.
+
+![Recommended Movies](Screenshots/Screenshot 2023-12-27 161102.png)
