@@ -54,5 +54,5 @@ The K-Nearest Neighbors (KNN) algorithm is used to find movies similar to a user
 
 The recommended movie titles are saved in the `recommended` list using the `save_recommendation` method. The `show_result` method displays the recommended movies in the GUI.
 
-![Recommended Movies]([https://github.com/F0UDA/Movie-recommendation-KNN/blob/ba23efcfd95941ea1c39977481e94b07fb468102/Screenshots/Screenshot%202023-12-27%20161102.png](https://github.com/F0UDA/Movie-recommendation-KNN/tree/979b845687eb9b0795070c881cb99263ccaf2534/Screenshots)https://github.com/F0UDA/Movie-recommendation-KNN/tree/979b845687eb9b0795070c881cb99263ccaf2534/Screenshots)
+![Recommended Movies]([https://github.com/F0UDA/Movie-recommendation-KNN/blob/08a44d5035bfce950162b72fe59d2499fd2db44b/Screenshots/Screenshot%202023-12-27%20164218.png)
 
